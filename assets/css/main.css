@@ -1806,6 +1806,42 @@ input, select, textarea {
 			display: block;
 			margin: 0 1.5em 0 0;
 		}
+		
+		.author .avatar {
+			display: inline-block;
+			width: 6em;
+			height: 6em;
+			border-radius: 50%;
+
+			background-repeat: no-repeat;
+			background-position: center center;
+			background-size: cover;
+		}
+
+		.author .avatar1 {
+			background-image: url('../../images/nito.jpg_large');
+		}
+		.author .avatar2 {
+			background-image: url('../../images/kim.jpg');
+		}
+		.author .avatar3 {
+			background-image: url('../../images/friedrich.jpg');
+		}
+		.author .avatar4 {
+			background-image: url('../../images/avatar1.jpg');
+		}
+		.author .avatar5 {
+			background-image: url('../../images/avatar2.jpg');
+		}
+		.author .avatar6 {
+			background-image: url('../../images/avatar3.jpg');
+		}
+		.author .avatar7 {
+			background-image: url('../../images/avatar4.jpg');
+		}
+		.author .avatar8 {
+			background-image: url('../../images/avatar5.jpg');
+		}
 
 		.author img {
 			border-radius: 100%;
